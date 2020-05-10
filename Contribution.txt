@@ -1,0 +1,26 @@
+Contributions:
+---------------
+
+Both of us have individually tried to work on most of the parts of the projects. We both had inputs on data preparation, building models, tuning parameters, evaluating models and presenting them. In order to achieve such an ambitious yet achievable analysis, we separated the work between all of us in the following way:
+
+● Emmy Phung (mtp363): 
+--------------------
+* Labelling data, split data into train, validation and test files 
+* Implementing LSTM with no embedding, BERT Base and BERT Discharge models
+* Tuning hyper-parameters and optimization function for all 6 models
+* Developing evaluation code and graphs for all 6 models
+* Preparing the slides, presenting and writing these parts of the projects:
+Hypothesis, Introduction, Data Labelling, Material & Methods (Model training), 
+Results (model evaluation)
+* Finalize the code
+
+● Kevin Yie (ky848): 
+-----------------------------
+* Downloading the MIMIC III data, cleaning and merging data
+* Researching about mental health diseases and ICD9 codes, BERT Discharge
+* Implementing LSTM with GloVe embedding and BERT Base
+* Implementing BERT visualization and conducting analysis
+* Preparing the slides, presenting and writing these parts of the projects:
+Abstract, Purpose, Introduction, Data Source, Material & Methods (Model architecture review), 
+Results (BERT Visualization) and Discussion
+* Finalize the paper
