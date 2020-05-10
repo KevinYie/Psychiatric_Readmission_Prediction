@@ -6,3 +6,5 @@ premature discharges as well as rapid decay of mental status after discharge is 
 psychiatric facilities faces. We aim to create a BERT-based model that can assist clinicians in
 identifying patients as risk of rapid psychiatric readmission upon discharge as well as extract abstract
 relationships from discharge summaries
+
+Presentation slides and paper for this study are included within repository.
